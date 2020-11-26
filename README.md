@@ -1,4 +1,4 @@
-# Farmacia-Etapa-2
+# Farmacia-Etapa-3
 |Nome do campo|tipo|Descrição|
 |-------------|----|---------|
 id |int| Pergunte o codigo id do remedio
